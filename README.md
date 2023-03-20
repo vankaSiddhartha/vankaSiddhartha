@@ -4,7 +4,7 @@
 <img align ="right" alt = "Coding" width="400" src = "https://c.tenor.com/D5ScqejhhYkAAAAC/tenor.gif">
 - 🔭 I’m currently working on **Memllo**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Android,MERN**
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vanka-siddhartha-35b767229](https://www.linkedin.com/in/vanka-siddhartha-35b767229)
 
-- ⚡ Fun fact **Stuck in the matrix**
+- ⚡ Fun fact **I stuck in the matrix**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

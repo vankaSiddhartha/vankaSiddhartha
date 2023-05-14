@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vanka Siddhartha</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align ="right" alt = "Coding" width="400" src = "https://c.tenor.com/D5ScqejhhYkAAAAC/tenor.gif">
-- 🔭 I’m currently working on **Memllo**
+- 🔭 I’m currently working on **Nice Vibe**
 
 - 🌱 I’m currently learning **MERN Stack**
 

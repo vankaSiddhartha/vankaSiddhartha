@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vanka-siddhartha-35b767229](https://www.linkedin.com/in/vanka-siddhartha-35b767229)
 
-- ⚡ Fun fact **I stuck in the matrix**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

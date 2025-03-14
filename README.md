@@ -1,31 +1,32 @@
 <div align="center">
   <img src="https://s6.imgcdn.dev/YjjX0K.png" alt="MasterHead" width="100%">
+  
+  # Vanka Siddhartha
+  
+  ### Trying to build the next thing.
 </div>
 
-<div align="center">
-  <h1>Vanka Siddhartha</h1>
-  <p>Trying to build the next thing.</p>
-</div>
+## About Me
 
----
-
-### About Me
-🚀 Working to build my own compiler in C++ and low-level stuff like OS and emulator  
-📧 Reach me at siddharthavanka68@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vanka-siddhartha-35b767229/)  
+- 🚀 Working to build my own compiler in C++ and low-level stuff like OS and emulator
+- 📧 Reach me at siddharthavanka68@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vanka-siddhartha-35b767229/)
 
 ## Tech Stack
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<div align="center">
 
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" alt="Assembly"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+</div>
 
 ## GitHub Stats
 
@@ -36,5 +37,9 @@
 
 ## Connect
 
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanka-siddhartha-35b767229/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siddharthavanka68@gmail.com)
+
+</div>

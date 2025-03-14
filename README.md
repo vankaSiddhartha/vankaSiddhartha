@@ -1,30 +1,40 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://vankasiddhartha.io)
-<h1 align="center">Hi 👋, I'm Vanka Siddhartha</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align ="right" alt = "Coding" width="400" src = "https://c.tenor.com/D5ScqejhhYkAAAAC/tenor.gif">
-- 🔭 I’m currently working on **Nice Vibe**
+<div align="center">
+  <img src="https://s6.imgcdn.dev/YjjX0K.png" alt="MasterHead" width="100%">
+</div>
 
-- 🌱 I’m currently learning **MERN Stack**
+<div align="center">
+  <h1>Vanka Siddhartha</h1>
+  <p>Trying to build the next thing.</p>
+</div>
 
-- 💬 Ask me about **Android,MERN**
+---
 
-- 📫 How to reach me **siddharthavanka68@gmail.com**
+### About Me
+🚀 Working to build my own compiler in C++ and low-level stuff like OS and emulator  
+📧 Reach me at siddharthavanka68@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vanka-siddhartha-35b767229/)  
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vanka-siddhartha-35b767229](https://www.linkedin.com/in/vanka-siddhartha-35b767229)
+## Tech Stack
 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vanka-siddhartha-35b767229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanka-siddhartha-35b767229/" height="30" width="40" /></a>
-</p>
+## GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vankasiddhartha&theme=dark&hide_border=true&show_icons=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vankasiddhartha&theme=dark&hide_border=true" width="48%" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vankasiddhartha&show_icons=true&locale=en&layout=compact" alt="vankasiddhartha" /></p>
+## Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vankasiddhartha&show_icons=true&locale=en" alt="vankasiddhartha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vankasiddhartha&" alt="vankasiddhartha" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanka-siddhartha-35b767229/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siddharthavanka68@gmail.com)
